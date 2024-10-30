@@ -1,0 +1,94 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(../../images/bouteilles.jpg);
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	border-radius: 5px;
+
+}
+.banner h1 {
+	font-size: 50px;
+	color: #CBE2B5;
+}
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8; 
+	margin-bottom: 40px;
+	color: #A28B55;
+}
+.banner1 {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(../../images/starter.jpg);
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	border-radius: 5px;
+}
+.banner1 h3 {
+	font-size: 50px;
+	color: #CBE2B5;
+}
+.banner1 h4 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8; 
+	margin-bottom: 40px;
+	color: #FEFAE0;
+}
+.banner2 {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(../../images/principal.jpg);
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	border-radius: 5px;
+	margin: 20px auto;
+}
+.banner2 h3 {
+	font-size: 50px;
+	color: #CBE2B5;
+}
+.banner2 h4 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8; 
+	margin-bottom: 40px;
+	color: #FEFAE0;
+}
+.banner3 {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(../../images/dessert.jpg);
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	border-radius: 5px;
+	margin: 20px auto;
+}
+.banner3 h3 {
+	font-size: 50px;
+	color: #CBE2B5;
+}
+.banner3 h4 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8; 
+	margin-bottom: 40px;
+	color: #FEFAE0;
+}
+.banner4 {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(../../images/digestifs.jpg);
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	border-radius: 5px;
+	margin: 20px auto;
+}
+.banner4 h3 {
+	font-size: 50px;
+	color: #CBE2B5;
+}
+.banner4 h4 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8; 
+	margin-bottom: 40px;
+	color: #FEFAE0;
+}

@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Eagle+Lake&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+body {
+	font-family: 'roboto', serif;
+	font-size: 18px;
+	background-color: #FEFAE0;
+}
+h1, h2, h3 {
+	font-family: 'eagle-lake', sans-serif;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+}
+h4 {
+	font-family: 'eagle-lake', sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+	color: #FEFAE0;
+}
